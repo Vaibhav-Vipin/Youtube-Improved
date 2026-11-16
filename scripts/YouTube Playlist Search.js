@@ -2,7 +2,7 @@
 // @name        YouTube Playlist Search
 // @namespace   Violentmonkey Scripts
 // @version     2.3.3
-// @match       https://www.youtube.com/watch*
+// @match       https://www.youtube.com/*
 // @grant       none
 // @run-at      document-idle
 // @description YouTube playlist search with working recent searches and clear controls
